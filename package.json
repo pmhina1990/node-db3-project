@@ -1,6 +1,7 @@
 {
   "name": "node-db3-project",
   "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
     "server": "nodemon index.js",
     "migrate": "knex migrate:latest",
